@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning informatic
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nina.francais@etu.unilim.fr
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she
 - ⚡ Fun fact: I played a concert a front of Eifel Tower
 
 <!---
