@@ -1,6 +1,6 @@
 
 
-#Étudiante en 3ᵉ année de **BUT Informatique** (parcours Réalisation d'applications) à l'**IUT du Limousin**, à Limoges. En alternance chez **Legrand** depuis septembre 2026.
+# Étudiante en 3ᵉ année de **BUT Informatique** (parcours Réalisation d'applications) à l'**IUT du Limousin**, à Limoges. En alternance chez **Legrand** depuis septembre 2026.
 
 ## 🔧 Ce sur quoi je travaille
 
